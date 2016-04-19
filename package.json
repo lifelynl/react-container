@@ -26,10 +26,6 @@
     "react-dom": "^0.14.0",
     "react-component-gulp-tasks": "^0.7.7"
   },
-  "peerDependencies": {
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0"
-  },
   "browserify-shim": {
     "react": "global:React"
   },
